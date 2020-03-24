@@ -3,4 +3,4 @@
 ## Технологии
 HTML, CSS
 ## Демо
-Сайт можно посмотреть по ссылке: 
+Сайт можно посмотреть по ссылке: https://jacksquirrel.github.io/learn-to-learn/
